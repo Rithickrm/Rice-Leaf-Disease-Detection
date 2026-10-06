@@ -99,6 +99,7 @@ Rice-Leaf-Disease-Detection/
 ├── rice_leaf_final_results.csv
 ├── requirements.txt
 └── README.md
+```
 
 ## Conclusion
 
