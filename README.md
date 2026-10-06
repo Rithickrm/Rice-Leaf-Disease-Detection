@@ -100,6 +100,11 @@ Rice-Leaf-Disease-Detection/
 ├── requirements.txt
 └── README.md
 
+Then:
+
+```markdown
+## Conclusion
+
 ## Conclusion
 
 The Rice Leaf Disease Detection project demonstrates the use of CNN-based deep learning for automated rice leaf disease classification.
