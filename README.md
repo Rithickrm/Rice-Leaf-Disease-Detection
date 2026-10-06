@@ -117,7 +117,3 @@ Both Baseline CNN and Augmented CNN models were developed, trained, and evaluate
 ## Author
 
 **Rithick M**
-
-## Author
-
-**Rithick M**
